@@ -10,10 +10,10 @@ https://dev.tsukinaha.org/tsukimi
 
 ## Screenshots
 <div align="center">
- <img src="./docs/tsukimi1.png"/>
+ <img src="https://github.com/tsukinaha/tsukimi/raw/main/docs/tsukimi1.png"/>
 </div>
 <div align="center">
- <img src="./docs/tsukimi2.png"/>
+ <img src="https://github.com/tsukinaha/tsukimi/raw/main/docs/tsukimi2.png"/>
 </div>
 
 ## Installation
